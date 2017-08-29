@@ -1,2 +1,2 @@
-# geocoding CO schools
-Geocoding scripts using various geocoders (MapQuest, Google APIs)
+# GIS scripts
+Various GIS related tools for automating tasks
